@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">toolbox</string>
+
+    <string name="account_statistics">statistics</string>
+    <string name="account_list">list</string>
+
+    <!--员工出勤簿-->
+    <string name="ic_description_top_bar_menu">菜单图标</string>
+    <string name="search_content_label">搜索</string>
+    <string name="ic_search_content_description">搜索框图标</string>
+    <string name="ic_search_clear_content">清空搜索框</string>
+    <string name="ic_worker_content_description">员工图标</string>
+    <string name="ic_work_day_content_description">碾米工作日图标</string>
+
+</resources>
